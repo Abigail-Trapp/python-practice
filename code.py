@@ -5,3 +5,6 @@ print(4*2)
 
 # Built-in functions that result in a floating point number
 print(14/7)
+print(+3)
+print(+34)
+print(+3j)
