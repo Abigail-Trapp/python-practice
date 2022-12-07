@@ -11,3 +11,6 @@ print(14//7)
 print(+3)
 print(+34)  # examples of unary plus
 print(+3j)
+
+# negation
+print(-3)
