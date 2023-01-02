@@ -14,3 +14,6 @@ print(+3j)
 
 # negation
 print(-3)
+
+# calculate the remainder when first number is divided by second
+print(3 % 2)
