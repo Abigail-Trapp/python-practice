@@ -17,3 +17,6 @@ print(-3)
 
 # calculate the remainder when first number is divided by second
 print(3 % 2)
+
+# Exponentiation - raises first number to the power of the second number
+print(2 ** 4)
