@@ -21,3 +21,6 @@ print(3 % 2)
 # Exponentiation - raises first number to the power of the second number
 print(2 ** 4)
 print(pow(2,3))
+
+# absolute value 
+print(abs(-3.4))
