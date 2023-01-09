@@ -24,3 +24,6 @@ print(pow(2,3))
 
 # absolute value 
 print(abs(-3.4))
+
+# ask a user for input
+print(input("Enter your age: "))
