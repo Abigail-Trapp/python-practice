@@ -27,3 +27,8 @@ print(abs(-3.4))
 
 # ask a user for input
 print(input("Enter your age: "))
+
+#determine the type
+print(type(5))
+print(type("5"))
+print(type(5.0))
