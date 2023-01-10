@@ -32,3 +32,6 @@ print(input("Enter your age: "))
 print(type(5))
 print(type("5"))
 print(type(5.0))
+
+# Make number into an integer
+print(int(5.1))
