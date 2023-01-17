@@ -39,3 +39,6 @@ print(int(5.1))
 # Float converts a number or a number as a string into a floating point number.
 print(float(5))
 print(float("5"))
+
+# String converts numbers or strings into a string. 
+print(str(3))
