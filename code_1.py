@@ -42,3 +42,6 @@ print(float("5"))
 
 # String converts numbers or strings into a string. 
 print(str(3))
+
+# Produce length of a string
+print(len("cat"))
