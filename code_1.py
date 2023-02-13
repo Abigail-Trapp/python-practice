@@ -45,3 +45,6 @@ print(str(3))
 
 # Produce length of a string
 print(len("cat"))
+
+# [i] shows what takes place at the "i" index
+print("cat"[1])
