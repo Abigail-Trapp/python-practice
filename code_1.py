@@ -48,3 +48,6 @@ print(len("cat"))
 
 # [i] shows what takes place at the "i" index
 print("cat"[1])
+
+#concatenation - ties together two entries
+print("hot" + "dog")
