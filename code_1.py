@@ -51,3 +51,6 @@ print("cat"[1])
 
 #concatenation - ties together two entries
 print("hot" + "dog")
+
+# * repeated concatenation
+print([3,4] * 2)
