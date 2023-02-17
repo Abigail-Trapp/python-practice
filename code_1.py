@@ -54,3 +54,5 @@ print("hot" + "dog")
 
 # * repeated concatenation
 print([3,4] * 2)
+
+print(min([4,3,6]))
