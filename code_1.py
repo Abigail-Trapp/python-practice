@@ -55,4 +55,8 @@ print("hot" + "dog")
 # * repeated concatenation
 print([3,4] * 2)
 
+# outputs minimum number
 print(min([4,3,6]))
+
+# outputs maximum number
+print(max([4,3,6]))
