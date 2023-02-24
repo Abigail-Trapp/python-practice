@@ -60,3 +60,6 @@ print(min([4,3,6]))
 
 # outputs maximum number
 print(max([4,3,6]))
+
+# Count shows number of times an input appears in a list. 
+print([8,7,8,9].count)
