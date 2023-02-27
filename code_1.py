@@ -62,4 +62,7 @@ print(min([4,3,6]))
 print(max([4,3,6]))
 
 # Count shows number of times an input appears in a list. 
-print([8,7,8,9].count)
+print([8,7,8,9].count(8))
+
+# Achieve index in an input list.
+print([1,2,3,4].index(2))
