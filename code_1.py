@@ -66,3 +66,6 @@ print([8,7,8,9].count(8))
 
 # Achieve index in an input list.
 print([1,2,3,4].index(2))
+
+# Produce "True" or "False" if a value is found in a list
+print(9 in [8,9,7])
