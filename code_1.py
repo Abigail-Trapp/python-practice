@@ -69,3 +69,6 @@ print([1,2,3,4].index(2))
 
 # Produce "True" or "False" if a value is found in a list
 print(9 in [8,9,7])
+
+# Produces input as a list of inputs that make up the input, input list does not change 
+print(list("dog"))
