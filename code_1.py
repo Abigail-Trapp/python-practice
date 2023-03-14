@@ -55,6 +55,9 @@ print("hot" + "dog")
 # * repeated concatenation
 print([3,4] * 2)
 
+# Slice produces a substring from first position up to but not including the second position
+print("hotdog"[2:5])
+
 # outputs minimum number
 print(min([4,3,6]))
 
