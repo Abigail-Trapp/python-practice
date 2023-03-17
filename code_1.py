@@ -75,3 +75,6 @@ print(9 in [8,9,7])
 
 # Produces input as a list of inputs that make up the input, input list does not change 
 print(list("dog"))
+
+# Converts a string to uppercase
+print("ha!".upper())
