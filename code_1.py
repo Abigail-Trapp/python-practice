@@ -78,3 +78,6 @@ print(list("dog"))
 
 # Converts a string to uppercase
 print("ha!".upper())
+
+# Converts a string to lowercase
+print("ha!".lower())
