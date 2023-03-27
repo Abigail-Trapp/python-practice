@@ -81,3 +81,7 @@ print("ha!".upper())
 
 # Converts a string to lowercase
 print("ha!".lower())
+
+# Booleans of True and False: "Or" outputs true if at least one expression is true.
+print(False or False)
+print(True or False)
